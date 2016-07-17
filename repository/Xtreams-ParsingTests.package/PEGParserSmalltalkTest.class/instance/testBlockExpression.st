@@ -5,4 +5,4 @@ testBlockExpression
 	| expression tree |
 	expression := '[super ++ (anInteger - skipped)] on: Incomplete do: [ :ex | ex pass ]'.
 	tree := parser parse: 'Expression' stream: expression reading actor: PEGTreeBuilder new.
-	tree key value size = expression size
+	self assert: tree key value size equals: expression size

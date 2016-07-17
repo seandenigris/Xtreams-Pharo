@@ -2,7 +2,19 @@
 	"class" : {
 		 },
 	"instance" : {
+		"parser:shouldMatch:" : "SeanDeNigris 6/27/2016 20:28",
+		"parser:shouldMatch:charactersOf:" : "SeanDeNigris 6/27/2016 23:33",
+		"parser:shouldntMatch:" : "SeanDeNigris 6/27/2016 20:30",
+		"rule:test:" : "SeanDeNigris 6/27/2016 20:19",
 		"setUp" : "nice 1/14/2011 23:20",
+		"testCardinalityLoop" : "SeanDeNigris 6/27/2016 23:33",
+		"testCardinalityMinLoop" : "SeanDeNigris 6/27/2016 23:34",
+		"testCardinalityRange" : "SeanDeNigris 6/27/2016 22:17",
+		"testCardinalityRangeMin" : "SeanDeNigris 6/27/2016 21:21",
+		"testDecimal" : "SeanDeNigris 6/25/2016 23:00",
+		"testHex" : "SeanDeNigris 6/25/2016 23:01",
+		"testOptional" : "SeanDeNigris 6/27/2016 23:05",
+		"testOptional2" : "SeanDeNigris 6/27/2016 23:05",
 		"testParsePEG" : "nice 1/14/2011 23:21",
 		"testParsePEGwithPEG" : "nice 1/14/2011 23:21",
 		"testValidatePEG" : "nice 1/14/2011 23:21" } }
