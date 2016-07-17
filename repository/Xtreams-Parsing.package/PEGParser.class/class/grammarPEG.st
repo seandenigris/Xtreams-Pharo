@@ -28,9 +28,10 @@ CardinalityRange	<-	NumLiteral s COMMA s NumLiteral
 CardinalityLoopMin	<-	NumLiteral s COMMA s Expression
 CardinalityLoop		<-	Expression
 
-Identifier				<-	[a-zA-Z_] [a-zA-Z0-9_]*
+Identifier				<-	[a-zA-Z_] [a-zA-Z0-9_\-]*
 NumLiteral			<-	"Infinity" / "0" / [1-9] [0-9]*
-Escape				<-	BACKSLASH [x] [0-9A-F]{6}
+Escape				<-	BACKSLASH [x] [0-9A-F]{2,6}
+					/ BACKSLASH [d] [0-9]+
 					/	BACKSLASH [nrts\-\\\[\]\''\"]
 					/	EscapeError
 EscapeError			<-	BACKSLASH .
@@ -43,7 +44,7 @@ comment_body		<-	comment
 					/	.
 whitespace			<-	[\s\t\n\r]
 
-ASSIGN				<-	"<-"
+ASSIGN				<-	"<-" / "="
 SLASH				<-	"/"
 BACKSLASH		<-	"\\"
 AND				<-	"&"

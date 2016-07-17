@@ -7,5 +7,6 @@ Escape: backslash character: character hexes: hexes
 		character = $t ifTrue: [^Character tab].
 		character = $n ifTrue: [^Character cr].
 		character = $r ifTrue: [^Character lf].
-		character = $x ifTrue: [^('16r', (String withAll: hexes)) asNumber asCharacter]].
+		character = $x ifTrue: [^('16r', (String withAll: hexes)) asNumber asCharacter].
+		character = $d ifTrue: [^(String withAll: hexes) asNumber asCharacter]].
 	^character
