@@ -1,0 +1,14 @@
+{
+	"category" : "Xtreams-TerminalsTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"collection" ],
+	"name" : "XTBlockClosureReadingWritingTest",
+	"pools" : [
+		 ],
+	"super" : "XTFiniteReadingWritingTests",
+	"type" : "normal" }

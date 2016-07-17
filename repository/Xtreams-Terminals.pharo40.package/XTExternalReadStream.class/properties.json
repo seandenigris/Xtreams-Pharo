@@ -1,0 +1,16 @@
+{
+	"category" : "Xtreams-Terminals",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"cache",
+		"cachePosition",
+		"cacheDataSize" ],
+	"name" : "XTExternalReadStream",
+	"pools" : [
+		 ],
+	"super" : "XTReadStream",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Xtreams-TerminalsFileSystemTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XTFileSystemReadingWritingTest",
+	"pools" : [
+		 ],
+	"super" : "XTFileReadingWritingTest",
+	"type" : "normal" }

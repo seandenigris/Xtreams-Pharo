@@ -1,0 +1,15 @@
+{
+	"category" : "Xtreams-CoreTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"output",
+		"buffer" ],
+	"name" : "XTElasticBufferTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

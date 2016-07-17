@@ -1,0 +1,14 @@
+{
+	"category" : "Xtreams-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nice 11/19/2013 23:35",
+	"instvars" : [
+		 ],
+	"name" : "NotFoundError",
+	"pools" : [
+		 ],
+	"super" : "NotFound",
+	"type" : "normal" }

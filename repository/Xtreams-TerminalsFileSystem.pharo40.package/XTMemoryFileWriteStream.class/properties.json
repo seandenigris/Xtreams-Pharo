@@ -1,0 +1,14 @@
+{
+	"category" : "Xtreams-TerminalsFileSystem",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "XTMemoryFileWriteStream",
+	"pools" : [
+		 ],
+	"super" : "XTFileWriteStream",
+	"type" : "normal" }

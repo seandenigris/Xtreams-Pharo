@@ -1,0 +1,14 @@
+{
+	"category" : "Xtreams-TerminalsTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "XTCollectionReadingWritingTest",
+	"pools" : [
+		 ],
+	"super" : "XTFiniteBoundlessReadingWritingTests",
+	"type" : "normal" }

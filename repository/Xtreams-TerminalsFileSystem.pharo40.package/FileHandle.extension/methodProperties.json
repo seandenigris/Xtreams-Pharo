@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"closed" : "nice 11/12/2013 23:31",
+		"commit" : "nice 11/12/2013 23:30",
+		"fileSize" : "nice 11/12/2013 23:30",
+		"readInto:" : "nice 11/17/2013 22:53",
+		"readInto:startingAt:count:" : "nice 11/12/2013 23:30",
+		"reading" : "nice 11/12/2013 23:00",
+		"seekTo:" : "nice 11/12/2013 23:29",
+		"writeFrom:startingAt:count:" : "nice 11/12/2013 23:30",
+		"writing" : "nice 11/12/2013 23:01" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "Xtreams-Substreams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"destinationAtEnd",
+		"closeBlock",
+		"substreamClosed" ],
+	"name" : "XTWriteSubstream",
+	"pools" : [
+		 ],
+	"super" : "XTWriteStream",
+	"type" : "normal" }

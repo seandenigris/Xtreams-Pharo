@@ -1,0 +1,15 @@
+{
+	"category" : "Xtreams-Transforms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"block",
+		"cache" ],
+	"name" : "XTCollectWriteStream",
+	"pools" : [
+		 ],
+	"super" : "XTWriteStream",
+	"type" : "normal" }

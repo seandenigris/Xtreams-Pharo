@@ -1,0 +1,19 @@
+{
+	"category" : "Xtreams-Transforms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"transparent",
+		"crPreceeding",
+		"encoder",
+		"buffer",
+		"bufferWriting",
+		"bufferReading" ],
+	"name" : "XTEncodeReadStream",
+	"pools" : [
+		"XTPools" ],
+	"super" : "XTReadStream",
+	"type" : "normal" }

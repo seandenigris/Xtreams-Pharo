@@ -1,0 +1,16 @@
+{
+	"category" : "Xtreams-Substreams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"substreamAtEnd",
+		"test",
+		"inclusive" ],
+	"name" : "XTTestReadSubstream",
+	"pools" : [
+		 ],
+	"super" : "XTReadSubstream",
+	"type" : "normal" }

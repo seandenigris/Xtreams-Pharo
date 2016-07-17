@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfXtreams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfXtreams",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
