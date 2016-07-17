@@ -1,0 +1,14 @@
+{
+	"category" : "Xtreams-Email",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parser" ],
+	"name" : "PEGEmailAddressTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

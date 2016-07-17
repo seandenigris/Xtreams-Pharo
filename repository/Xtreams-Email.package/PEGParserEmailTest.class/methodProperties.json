@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "SeanDeNigris 6/24/2016 00:08",
+		"testAddress" : "SeanDeNigris 6/25/2016 23:14",
+		"testAlpha" : "SeanDeNigris 6/24/2016 00:20",
+		"testBIT" : "SeanDeNigris 6/24/2016 00:29",
+		"testCHAR" : "SeanDeNigris 6/24/2016 00:29",
+		"testCR" : "SeanDeNigris 6/24/2016 00:30",
+		"testCRLF" : "SeanDeNigris 6/24/2016 00:33",
+		"testCTL" : "SeanDeNigris 6/24/2016 00:34",
+		"testDIGIT" : "SeanDeNigris 6/24/2016 00:34",
+		"testDQUOTE" : "SeanDeNigris 6/24/2016 00:35",
+		"testHEXDIG" : "SeanDeNigris 6/24/2016 00:35",
+		"testHTAB" : "SeanDeNigris 6/24/2016 00:19",
+		"testLF" : "SeanDeNigris 6/24/2016 00:36",
+		"testLWSP" : "SeanDeNigris 6/25/2016 23:08",
+		"testRule:matchesChar:" : "SeanDeNigris 6/24/2016 00:19",
+		"testRule:matchesString:" : "SeanDeNigris 6/24/2016 00:33",
+		"testSP" : "SeanDeNigris 6/25/2016 23:08",
+		"testVCHAR" : "SeanDeNigris 6/25/2016 23:10",
+		"testWSP" : "SeanDeNigris 6/24/2016 00:21" } }
