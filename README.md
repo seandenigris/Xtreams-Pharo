@@ -1,4 +1,4 @@
-The following is [the README](https://code.google.com/archive/p/xtreams/) from the archived Google Code repo...
+The following is [the README](https://code.google.com/archive/p/xtreams/) from the archived Google Code repo. There is also a [wiki](https://code.google.com/archive/p/xtreams/wikis) still available via the archive.
 
 Flexible and scalable streaming for Smalltalk
 
